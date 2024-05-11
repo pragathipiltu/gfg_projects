@@ -1,2 +1,2 @@
 # gfg_projects
-I have created this repository to  add my  projects that i learn and practice
+I have created this repository to  add basic HTML and CSS  projects that i learn and practice
